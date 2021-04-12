@@ -15,7 +15,7 @@ Entre outros...
 
 Usamos ferramenteas como Docker, Apache/Nginx, Ansible. E estamos constantemente buscando nos aprimorar nas ferramentas do mercado.
 
-- 💞️ Atualmente meu foco de estudos est em Kubernets, Openstack e Ceph cluster e ferramentas do pacote DevOps :D.
+- 💞️ Atualmente meu foco de estudos está em Kubernets, Openstack, Ceph cluster e ferramentas do pacote DevOps :D.
 
 <!---
 whasley/whasley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
