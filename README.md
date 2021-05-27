@@ -2,7 +2,7 @@
 - Atualmente sou SysAdmin no Laboratório de Sistemas Distribuídos - LSD. UFCG.
 - Meu time é responsável por um Data Center local, onde rodam uma Cloud privada Openstack com Ceph como backend de storage distribuído. Além de outros serviços.
 
-Usamos ferramenteas como Docker, Apache/Nginx, Ansible entre outra no dia a dia e estamos constantemente buscando nos aprimorar nas ferramentas do mercado.
+Usamos ferramenteas como Docker, Apache/Nginx, Ansible, entre outras no dia a dia e estamos constantemente buscando nos aprimorar nas ferramentas do mercado.
 
 - 💞️ Atualmente meu foco de estudos está em Kubernets, Openstack, Ceph cluster e ferramentas do pacote DevOps :D.
 
